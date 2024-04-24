@@ -1,4 +1,4 @@
-# cloud973
+# cloud973 21BCP351 Rachit Vaidya 
 # Building a 3-Tier Application with JavaScript, Node.js, React, and Database Connectivity
 
 In the realm of modern web development, creating robust applications often involves a multi-layered architecture to ensure scalability, maintainability, and performance. A 3-tier architecture, comprising a presentation layer, business logic layer, and data storage layer, is a common approach to achieve these goals. In this blog, we'll explore how to code a 3-tier application using JavaScript, Node.js, React, and a database connection.
